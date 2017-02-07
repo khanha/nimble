@@ -251,7 +251,6 @@ namespace Patient_In_Pathway.Models
         //    public string AppointmentType { get; set; }
         //    public string AppointmentDate { get; set; }
         //    public string AppointmentAttended { get; set; }
-
         //    public string AppointmentResult { get; set; }
         //}
 
@@ -270,8 +269,6 @@ namespace Patient_In_Pathway.Models
         //{
         //    public string BiopsyDate { get; set; }
         //    public string BiopsyResult { get; set; }
-        //    public string BiposyDate { get; set; }
-        //    public string BiposyResult { get; set; }
         //}
  }
 
